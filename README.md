@@ -1,3 +1,5 @@
+*cloned from https://git.sr.ht/~grimler/Heimdall*
+
 # Heimdall
 
 [![builds.sr.ht status](https://builds.sr.ht/~grimler/Heimdall/commits/ubuntu.yml.svg)](https://builds.sr.ht/~grimler/Heimdall/commits/ubuntu.yml?)
